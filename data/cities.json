@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "481f",
+      "cityName": "Ḩalwan",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-04-19T23:46:25.125Z",
+      "notes": "My home",
+      "position": {
+        "lat": "29.879048383036082",
+        "lng": "31.30938827991486"
+      }
+    },
+    {
+      "id": "8b95",
+      "cityName": "Rafaḩ",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2024-04-19T23:51:38.821Z",
+      "notes": "Palestine <3 ",
+      "position": {
+        "lat": "31.27502973030594",
+        "lng": "34.25674438476563"
+      }
+    },
+    {
+      "id": "481ff",
+      "cityName": "Khan Yunis",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2024-04-19T23:55:03.673Z",
+      "notes": "<3 <3 ",
+      "position": {
+        "lat": "31.34660016487166",
+        "lng": "34.31030273437501"
+      }
+    }
+  ]
+}
